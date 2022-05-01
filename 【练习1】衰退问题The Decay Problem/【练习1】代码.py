@@ -61,6 +61,3 @@ ax1.legend()
 
 plt.savefig('C:/Users/LULU/Desktop/Decay.jpg')
 plt.show()
-
-
-
