@@ -9,7 +9,7 @@ Part A 练习示例：
 【Lecture2】来自：
 https://github.com/JohanvandeKoppel/Marine-Modelling-in-Python
 
-包括中文版的问题描述、代码和结果图片展示
+包括中文版的问题描述、代码和结果图片展示。
 
 —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— ——
 
