@@ -1,6 +1,11 @@
 # Ocean_modelling
 这里是海洋数值模拟的学习笔记
 
+【练习1~3】来自《Ocean Modelling for Beginners》
+
+【Lecture2】来自：
+https://github.com/JohanvandeKoppel/Marine-Modelling-in-Python
+
 —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— ——
 
 计划分为三个部分：
